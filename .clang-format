@@ -1,0 +1,21 @@
+---
+BasedOnStyle: Google
+IndentWidth: 2
+---
+KeepEmptyLinesAtTheStartOfBlocks: false
+Language: Cpp
+UseTab: Never
+SpaceBeforeParens: ControlStatements
+SortUsingDeclarations: true
+PointerAlignment: Right
+ColumnLimit: 100
+IncludeBlocks: Regroup
+SpaceAfterCStyleCast: true
+PenaltyBreakAssignment: 100
+AlwaysBreakAfterReturnType: None
+AllowShortLoopsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AlignOperands: true
+AlignAfterOpenBracket: Align
+---
+

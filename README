@@ -1,0 +1,27 @@
+
+
+# Kleptic HTTP Server
+
+Kleptic is a library for building HTTP web servers.
+It is written in C++ and is questionable in a number of regards.
+Please take caution haha.
+
+## Dependencies
+- Cmake
+- C++17 
+
+## Building
+```
+> ./build.sh rel
+```
+
+## Features
+
+Tree Based Routing Engine
+Modular concurrency implementation
+Cross process logging and statistics based on SysV message queues / IPC
+Serialization based on Key=Value for Log Events
+Post Query Support
+Sorting directory files by name/size/date
+Complete use of CMake and C++11 features
+
