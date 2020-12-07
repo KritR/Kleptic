@@ -2,6 +2,8 @@
 
 # Kleptic HTTP Server
 
+THIS REPO IS ARCHIVED . AND JUST FOR REFERENCE PURPOSES
+
 Kleptic is a library for building HTTP web servers.
 It is written in C++ and is questionable in a number of regards.
 Please take caution haha.
